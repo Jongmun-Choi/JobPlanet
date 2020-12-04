@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">JobPlanet</string>
+    <string name="salary_avg_label">평균연봉</string>
+    <string name="salary_avg_unit">만원</string>
+    <string name="interview_label">면접질문</string>
+    <string name="more_company_info">기업정보 더보기</string>
+    <string name="more_salary_info">연봉정보 더보기</string>
+    <string name="more_review_info">기업리뷰 더보기</string>
+    <string name="interview_difficulty_label">난위도</string>
+    <string name="pros_label">장점</string>
+    <string name="cons_label">단점</string>
+    <string name="salary_lowest">최저</string>
+    <string name="salary_highest">최고</string>
+    <string name="search_hint">한글로 기업, 채용공고 검색</string>
+</resources>
